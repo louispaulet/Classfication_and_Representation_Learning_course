@@ -1,0 +1,2 @@
+# Classfication_and_Representation_Learning_course
+Ressources and assignments for Classfication and Representation Learning course
